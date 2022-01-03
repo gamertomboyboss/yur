@@ -1,0 +1,38 @@
+.heading
+{
+
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px deepskyblue;
+}
+
+.note
+{
+    font-size: 15px;
+    color: dodgerblue;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: blueviolet;
+    bottom: 0;
+    width: 100%;
+    background-color: cadetblue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+border: 5px solid darkcyan;
+border-radius: 20px;
+box-shadow: 5px 5px 5px darkslategray;
+color: turquoise;
+}
+
+span 
+{
+    color: black;
+}
